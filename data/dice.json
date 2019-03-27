@@ -1,0 +1,31 @@
+[{
+    "title": "Four sided dice",
+    "type": "d4",
+    "sides": 4
+  },
+  {
+    "title": "Six sided dice",
+    "type": "d6",
+    "sides": 6
+  },
+  {
+    "title": "Eight sided dice",
+    "type": "d8",
+    "sides": 8
+  },
+  {
+    "title": "Ten sided dice",
+    "type": "d10",
+    "sides": 10
+  },
+  {
+    "title": "Twelve sided dice",
+    "type": "d12",
+    "sides": 12
+  },
+  {
+    "title": "Twenty sided dice",
+    "type": "d20",
+    "sides": 20
+  }
+]

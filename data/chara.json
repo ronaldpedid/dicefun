@@ -1,0 +1,30 @@
+[{
+  "lvl": 1,
+  "name": "Donglos MacBok",
+  "hp": 50,
+  "mp": 30,
+  "defense": 25,
+  "str": 25,
+  "buffs": [],
+  "weaponSet": "dwDaggers",
+  "diceSet": "dwDaggerSet",
+  "weaponsEquipped": 2,
+  "weapon1": {
+    "stats": {
+      "title": "Dagger of Penerating",
+      "attackPW": 10
+    }
+  },
+  "weapon2": {
+    "stats": {
+      "title": "Dagger of Assassins",
+      "attackPW": 10
+    }
+  },
+  "armor": {
+    "stats": {
+      "title": "Hide Armor",
+      "defense": 4
+    }
+  }
+}]

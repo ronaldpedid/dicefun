@@ -1,0 +1,27 @@
+[{
+  "lvl": 1,
+  "name": "Dark Beast",
+  "hp": 125,
+  "defense": 10,
+  "str": 20,
+  "weaponSet": "claws",
+  "diceSet": "clawSet",
+  "weapon1": {
+    "stats": {
+      "title": "Beast Claws",
+      "attackPW": 12
+    }
+  },
+  "weapon2": {
+    "stats": {
+      "title": "Dagger of Assassins",
+      "attackPW": 10
+    }
+  },
+  "armor": {
+    "stats": {
+      "title": "Beast Hide",
+      "defense": 12
+    }
+  }
+}]
